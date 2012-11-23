@@ -1,6 +1,6 @@
 # speech.mxo
 
-Max native obect for text to speech (Mac OS only).
+Max external object for text to speech (Mac OS only).
 
 See `example/speech.maxpat` for how to use it.
 
