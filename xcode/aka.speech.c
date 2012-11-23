@@ -1,4 +1,7 @@
 /* aka.speech.c */
+/* by Mayasuka Akamatsu */
+/* with additions by Scott Shepherd https://github.com/dr-skot */
+/* license: http://creativecommons.org/licenses/by-sa/3.0/ */
 
 #include "ext.h"		/* contains basic function macros and type definitions */
 #include "ext_obex.h"
