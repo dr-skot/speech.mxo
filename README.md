@@ -2,7 +2,7 @@
 
 Max external object for text to speech (Mac OS only).
 
-See `example/speech.maxpat` for how to use it:
+See `example/speak.maxpat` for how to use it:
 
 ![screenshot](http://i47.tinypic.com/140ajkk.png)
 
